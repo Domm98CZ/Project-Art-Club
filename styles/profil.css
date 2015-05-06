@@ -1,0 +1,477 @@
+.user_name
+{
+ position:relative;
+ top:-466px;
+ left:-355px;
+ width:400px;
+ margin:0px auto;
+ text-align:right;
+ z-index:2;
+}
+.user_name2
+{
+ position:relative;
+ top:-512px;
+ left:355px;
+ width:400px;
+ margin:0px auto;
+ text-align:left;
+ z-index:2;
+} 
+.line_name
+{
+ position:relative;
+ top:-430px;
+ width:300px;
+ height:3px;
+ margin:0px auto;
+ background-color:#f4c77b;
+ z-index:2;
+}
+.avatar2BG:hover + .line_name
+{
+ background-color:#f4837b;
+ transition:0.3s;
+}
+.avatar2BG:hover + .line_name
+{
+ background-color:#f4837b;
+ transition:0.3s;
+}
+.line_name2
+{
+ position:relative;
+ width:100%;
+ height:3px;
+ top:20px;   
+ margin:0px auto;
+ background-color:#f4c77b;
+ z-index:2;
+} 
+.name
+{
+ color:#f4c77b;
+ font-size:16pt;
+}
+.name:hover
+{
+ color:#f4837b;
+ transition:0.3s;
+}
+.user_info
+{
+ position:relative;
+ background-color:#2d2d2d;
+ margin:0px auto;
+ top:-547px;
+ z-index:1;
+ padding-top:80px;
+ padding-bottom:20px;
+}
+.user_info TABLE
+{
+ position:relative;
+ width:auto;
+ margin:0px auto;
+ margin-top:50px;
+}
+.user_info TD
+{
+ text-align:right;
+ color:#d1c0ad;
+ font-size:14pt;
+}
+.user_info TD A
+{
+ color:#d1c0ad;
+}
+.user_info TH
+{
+ text-align:left;
+ border-right-style:solid;
+ border-color:transparent;
+ border-width:100px;
+ color:#e7a580;
+ font-size:14pt;
+}
+#subscribe
+{
+ position:relative;
+ left:50px;
+ width:180px;
+ height:30px;
+ margin:0px auto;
+ margin-top:25px;
+}
+#subscribe A IMG
+{
+ display:block;
+ width:30px;
+ height:30px;
+ float:left;  
+}
+#subscribe A P
+{
+ opacity:0;
+ color:#ffffff;
+ margin:0px auto;
+ float:left;
+ padding-top:4px;
+ width:auto;
+ font-size:14pt;
+ margin-left:-50px;
+}
+#subscribe A:hover P
+{
+ opacity:100;
+ margin-left:10px;
+ font-size:14pt;
+ transition:0.5s;
+}
+#subscribe:hover
+{
+ transition:0.3s;
+ position:relative;
+ left:10px;
+}
+
+.user_name2
+{
+ position:relative;
+ top:-512px;
+ left:355px;
+ width:400px;
+ margin:0px auto;
+ text-align:left;
+ z-index:2;
+} 
+.line_name
+{
+ position:relative;
+ top:-430px;
+ width:300px;
+ height:3px;
+ margin:0px auto;
+ background-color:#f4c77b;
+ z-index:2;
+}
+.avatar2BG:hover + .line_name
+{
+ background-color:#f4837b;
+ transition:0.3s;
+}
+.avatar2BG:hover + .line_name
+{
+ background-color:#f4837b;
+ transition:0.3s;
+}
+.line_name2
+{
+ position:relative;
+ width:100%;
+ height:3px;
+ top:20px;   
+ margin:0px auto;
+ background-color:#f4c77b;
+ z-index:2;
+} 
+.name
+{
+ color:#f4c77b;
+ font-size:16pt;
+}
+.name:hover
+{
+ color:#f4837b;
+ transition:0.3s;
+}
+.user_info
+{
+ position:relative;
+ background-color:#2d2d2d;
+ margin:0px auto;
+ top:-547px;
+ z-index:1;
+ padding-top:80px;
+ padding-bottom:20px;
+}
+.user_info TABLE
+{
+ position:relative;
+ width:auto;
+ margin:0px auto;
+ margin-top:50px;
+}
+.user_info TD
+{
+ text-align:right;
+ color:#d1c0ad;
+ font-size:14pt;
+}
+.user_info TD A
+{
+ color:#d1c0ad;
+}
+.user_info TH
+{
+ text-align:left;
+ border-right-style:solid;
+ border-color:transparent;
+ border-width:100px;
+ color:#e7a580;
+ font-size:14pt;
+}
+#subscribe
+{
+ position:relative;
+ left:50px;
+ width:150px;
+ height:30px;
+ margin:0px auto;
+ margin-top:25px;
+}
+#subscribe A IMG
+{
+ display:block;
+ width:30px;
+ height:30px;
+ float:left;  
+}
+#subscribe A P
+{
+ opacity:0;
+ color:#ffffff;
+ margin:0px auto;
+ float:left;
+ padding-top:4px;
+ font-size:14pt;
+ margin-left:-50px;
+}
+#subscribe A:hover P
+{
+ opacity:100;
+ margin-left:10px;
+ font-size:14pt;
+ transition:0.5s;
+}
+#subscribe:hover
+{
+ transition:0.3s;
+ position:relative;
+ left:10px;
+}
+
+#user_options 
+{
+ margin:0px auto;
+ width:500px;
+ padding-top:15px;
+}
+#user_options A
+{ 
+ position:relative;
+ left:150px;
+ color:#f4c77b;
+ text-decoration:none;
+ opacity:0.5;
+}
+#user_options A:hover
+{ 
+ text-decoration:underline;
+ color:#f4837b;
+ transition:0.3s;
+ opacity:1;
+}
+#user_options H2
+{
+ text-align:left;
+ color:#d1c0ad;
+ margin-top:50px;
+}
+#formular_user_privat
+{
+ width:500px;
+ margin:0px auto;    
+}
+#formular_user_privat P
+{
+ width:100px;
+ text-align:left;
+ color:#f4837b;
+ font-size:17pt;
+ margin-bottom:-20;
+}
+#formular_user_privat INPUT[type='text']
+{
+ width:400px;
+ text-align:left;
+ background-color:#d1c0ad;
+ border-style:none;
+ height:30px;
+ text-align:center;
+ position:relative;
+ left:100px;
+ top:-10px;
+ font-size:15pt;
+} 
+#formular_user_privat INPUT[type='file']
+{
+ width:400px;
+ text-align:left;
+ background-color:#d1c0ad;
+ border-style:none;
+ height:30px;
+ text-align:center;
+ position:relative;
+ left:100px;
+ top:-10px;
+ font-size:15pt;
+} 
+#formular_user_privat INPUT[type='password']
+{
+ width:400px;
+ text-align:left;
+ background-color:#d1c0ad;
+ border-style:none;
+ height:30px;
+ text-align:center;
+ position:relative;
+ left:100px;
+ top:-10px;
+ font-size:15pt;
+} 
+#formular_user_privat INPUT[name='display_name']
+{
+ width:300px;
+ text-align:left;
+ background-color:#d1c0ad;
+ border-style:none;
+ height:30px;
+ text-align:center;
+ position:relative;
+ left:100px;
+ top:-10px;
+ font-size:15pt;
+}  
+#formular_user_privat INPUT[type='submit']
+{
+ width:100px;
+ text-align:center;
+ background-color:#f4c77b;
+ border-style:none;
+ height:30px;
+ text-align:center;
+ position:relative;
+ left:100px;
+ top:-10px; 
+ font-size:14pt;
+}
+#formular_user_privat INPUT[name='change_pass']
+{
+ width:400px;
+ text-align:center;
+ background-color:#f4c77b;
+ border-style:none;
+ height:30px;
+ text-align:center;
+ position:relative;
+ font-size:14pt;
+ margin-top:20px;
+}
+#formular_user_privat INPUT[name='change_avatar']
+{
+ width:400px;
+ text-align:center;
+ background-color:#f4c77b;
+ border-style:none;
+ height:30px;
+ text-align:center;
+ position:relative;
+ font-size:14pt;
+ margin-top:20px;
+}
+#formular_user_privat INPUT[name='change_mail']
+{
+ width:400px;
+ text-align:center;
+ background-color:#f4c77b;
+ border-style:none;
+ height:30px;
+ text-align:center;
+ position:relative;
+ font-size:14pt;
+ margin-top:20px;
+}
+#formular_user_privat INPUT[type='submit']:hover
+{
+ background-color:#e7a580;
+ transition:0.3s;
+ cursor:pointer;
+}
+#formular_user_privat SELECT
+{
+ width:300px;
+ text-align:center;
+ background-color:#d1c0ad;
+ border-style:none;
+ height:30px;
+ text-align:center;
+ position:relative;
+ left:100px;
+ top:-10px; 
+ font-size:14pt;
+}
+OPTION
+{
+ margin:0;
+ padding:0;
+}
+ #formular_user_privat IMG
+ {
+  margin-left:250px;
+  border-radius:100%;
+  border-style:solid;
+  border-width:3px;
+  width:100px;
+  height:100px;
+  border-color:#e7a580;
+ }
+
+.avatar2
+{
+ position:relative;
+ width:95%;
+ top:2.5%;
+ left:2.5%;
+ margin:0px auto;
+ overflow:hidden;
+ border-radius:100%;
+}
+
+.avatar2:active
+{
+ width:96%;
+ margin:0px auto;
+ position:relative;
+}
+.avatar2BG
+{
+ position:relative;
+ margin:0px auto;
+ width:150px;
+ height:150px;
+ top:-350px;   
+ background-color:#3e3e3e;
+ border-style:solid;
+ border-width:3px;
+ border-radius:150px;
+ border-color:#f4c77b;
+ z-index:4;
+}
+
+.avatar2BG:hover
+{
+  transition:0.3s;
+  border-color:f4837b;
+  cursor:pointer;
+}

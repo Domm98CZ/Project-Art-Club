@@ -1,0 +1,176 @@
+#sidebar_panel
+{
+  display:none;
+  position:fixed;
+  margin
+  float:left;
+  height:100%;
+  background-color:#B1998C;
+  z-index:100;
+  margin-right:20px;
+}
+
+#sidebar_panel div.title  
+{
+  text-align:center;
+  margin-top:-3px;
+  width:100%;
+  margin:0px auto;
+  background:#3e3e3e;
+  height:30px;
+  line-height:30px;
+  text-align:center;
+  margin-top:2px;
+  -webkit-transition: background 2s; 
+  transition: background 2s;
+}
+#sidebar_panel div.titld 
+{
+  width:100%;
+  margin:0px auto;
+  background:#3e3e3e;
+  text-align:center;
+  margin-top:2px;
+  -webkit-transition: background 2s; 
+  transition: background 2s;
+  color:#232323;
+}
+#sidebar_panel div.title:hover 
+{
+  background:#f4c77b;
+  color:#232323;;
+}
+#sidebar_panel div.titld:hover
+{
+  background:#f4c77b;
+}
+#sidebar_panel a.name 
+{
+  width:*;
+  height:30px;
+  line-height:30px;
+  -webkit-transition: background 2s; 
+  transition: background 2s;
+  text-decoration:none;
+  color:#323232;
+}
+#sidebar_panel a.name:hover 
+{
+  color:#000000;
+}
+#sidebar_panel a.vice 
+{
+  color:#fff;text-decoration:none;
+  -webkit-transition: color 1s; 
+  transition: color 1s;
+}
+#sidebar_panel a.vice:hover 
+{
+  color:#000000;
+}
+#sidebar_panel .mujprofil 
+{
+  padding-top:3px;
+  margin-top:50px;
+}
+#sidebar_panel .mujprofil img 
+{
+  margin:0px;
+}
+#sidebar_panel .mujprofil ul 
+{
+  margin:0px; 
+  padding:0px;
+  width:100%;
+}
+#sidebar_panel .mujprofil ul li
+{
+  list-style:none;
+  text-align:left;
+  margin:0px;
+  padding:0px;
+  background:#3e3e3e;
+  padding:5px;
+  margin-bottom:2px;
+  -webkit-transition: background 1s;
+  transition: background 1s;
+}
+#sidebar_panel .mujprofil ul li:hover 
+{
+  background:#f4c77b;
+}
+#sidebar_panel .mujprofil ul li a 
+{
+  color:#fff;text-decoration:none;
+  -webkit-transition: color 0.5s; 
+  transition: color 0.5s;
+}
+#sidebar_panel .mujprofil ul li a:hover 
+{
+  color:#000000;
+}
+#sidebar_panel .odbery 
+{
+  padding-top:60px;
+  margin-top:60px;
+}
+#sidebar_panel .odbery ul 
+{
+  margin:0px;
+  padding:0px;
+  width:100%;
+}
+#sidebar_panel .odbery ul li 
+{
+  list-style:none;
+  margin:0px;
+  padding:0px;
+  text-align:left;
+  background:#3e3e3e;
+  padding-left:5px;
+  padding-bottom:5px;
+  padding-right:5px;
+  padding-top:3px;
+  margin-top:2px;
+  height:30px;
+  -webkit-transition: background 1s;
+  transition: background 1s;
+}
+#sidebar_panel .odbery ul li:hover 
+{
+  background:#f4c77b;
+}
+#sidebar_panel .odbery ul li span.name
+{
+  float:left;
+  padding-top:7px;
+  color:#fff;
+  -webkit-transition: color 1s;
+  transition: color 1s;
+}
+#sidebar_panel .odbery ul li:hover span.name 
+{
+  color:#000000;
+}
+#sidebar_panel .odbery ul li img 
+{
+  padding:0px;
+  float:left;
+  margin-left:2px;
+  margin-right:5px;
+  border:1px solid #f4c77b;
+  width:30px;
+  height:30px;
+  -webkit-transition:
+  border 1s; 
+  transition: border 1s;
+}
+#sidebar_panel .odbery ul li:hover img 
+{
+  border:1px solid #3e3e3e;
+}
+#sidebar_panel .odbery ul li a 
+{
+  color:#fff;
+  text-decoration:none;
+}
